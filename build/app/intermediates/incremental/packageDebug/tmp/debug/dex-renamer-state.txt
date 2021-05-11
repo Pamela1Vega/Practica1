@@ -1,0 +1,4 @@
+#Mon May 10 09:38:36 GMT+12:00 2021
+base.0=C\:\\Users\\pamela\\Desktop\\Flutter\\contador\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
